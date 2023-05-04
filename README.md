@@ -13,5 +13,5 @@ An E-commerce CEO request a dashboard for E-commerce company wide to understand 
 - Insights and Recommendations
 
 ### Project Files
-- Full slide in here: [Tableau Deck]()
-- Tableau dashboard in here: [Dashboard]()
+- Full slide in here: [Tableau Deck](https://docs.google.com/presentation/d/15JljjmLo9h1WvzbjxiF2gv1mN-OkH01PcLd1oRAEIlo/edit?usp=share_link)
+- Tableau dashboard in here: [Dashboard](https://public.tableau.com/views/W1011_JAN23_Agatha_Kusumaningrum_Advance/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
